@@ -1,5 +1,5 @@
-# Junq_deamon_C
-## P2P messages manager over yggdrasil network
+# Junq Daemon C
+
 ### Used libaries:
 - [CJSON](https://github.com/DaveGamble/cJSON): MIT License
 
